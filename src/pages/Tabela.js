@@ -55,7 +55,7 @@ export default function Tabela() {
                         </td>
                       </tr>
                       <tr>
-                        <td>Internação x 5 dias (R$ 220 diáriaa)</td>
+                        <td>Internação x 5 dias (R$ 220 diária)</td>
                         <td>
                           <span className="font-semibold">R$ </span>1.100
                         </td>
@@ -174,7 +174,7 @@ export default function Tabela() {
                         </td>
                       </tr>
                       <tr>
-                        <td>Internação x 5 dias (R$ 220 diáriaa)</td>
+                        <td>Internação x 5 dias (R$ 220 diária)</td>
                         <td>
                           <span className="font-semibold">R$ </span>1.100
                         </td>
