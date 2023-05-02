@@ -33,9 +33,8 @@ export default function Main() {
             ></iframe>
           </div>
         </div>
-        <Button props={"Quero adquirir um plano"} />
 
-        <div className="flex flex-col  items-center justify-center">
+        <div className="flex flex-col mt-5 items-center justify-center">
           <div className=" px-3  pr-3  text-center font-bold  w-full  text-blue-100 text-xl md:text-3xl">
             <h1 className="">Transforme agora a vida do seu peludinho!</h1>
           </div>
@@ -46,6 +45,7 @@ export default function Main() {
             <h1 className="text-4xl ">R$ 29,99</h1>
           </div>
         </div>
+        <Button props={"Quero adquirir um plano"} />
       </div>
       <svg
         className="wave"
