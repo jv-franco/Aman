@@ -28,7 +28,7 @@
 }
 
 .btn {
-  @apply text-white  md:text-2xl text-lg  border md:mx-2 mx-0 text-center font-semibold duration-500 my-6 rounded-xl;
+  @apply text-white px-5 md:text-2xl text-lg  border md:mx-2 mx-0 text-center font-semibold duration-500 my-6 rounded-xl;
   background-color: #2a8067;
   width: 500px;
   height: 60px;
@@ -36,7 +36,7 @@
 
 @media (max-width: 768px) {
   .btn {
-    width: 80%;
+    width: 100%;
   }
 }
 
