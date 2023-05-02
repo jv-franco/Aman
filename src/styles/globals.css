@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  @apply font-sans;
+}
+
 .main {
   @apply flex items-center justify-center text-center flex-col py-20 sm:px-10 px-0 relative;
 
@@ -32,12 +36,6 @@
   background-color: #2a8067;
   width: 500px;
   height: 60px;
-}
-
-@media (max-width: 768px) {
-  .btn {
-    width: 100%;
-  }
 }
 
 @media (max-width: 600px) {
