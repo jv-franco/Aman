@@ -5,7 +5,7 @@ export default function Layout({ children }) {
     <>
       <Head>
         <link rel="shortcut icon" href="/images/favicon.ico"></link>
-        <title>Aman</title>
+        <title>Aman Pets</title>
       </Head>
 
       <main className="main-container">{children}</main>

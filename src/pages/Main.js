@@ -1,6 +1,7 @@
 import cao from "../images/cao.png";
 import { Button } from "@/components/Button";
 import Image from "next/image";
+
 export default function Main() {
   return (
     <div>
@@ -25,7 +26,10 @@ export default function Main() {
           <div class="container_video">
             <iframe
               class="responsive-iframe"
-              src="https://www.youtube.com/embed/QQlWTSrP1Y8"
+              frameborder="0"
+              allowfullscreen="1"
+              title="CUIDE DO SEU PET E TRANSFORME A VIDA DELE"
+              src="https://www.youtube.com/embed/QQlWTSrP1Y8?controls=1&loop=1"
             ></iframe>
           </div>
         </div>
