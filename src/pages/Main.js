@@ -23,11 +23,11 @@ export default function Main() {
           A forma mais prática e rápida do mercado!
         </h2>
         <div className="div_video ">
-          <div class="container_video">
+          <div className="container_video">
             <iframe
-              class="responsive-iframe"
+              className="responsive-iframe"
               frameborder="0"
-              allowfullscreen="1"
+              allowFullScreen="1"
               title="CUIDE DO SEU PET E TRANSFORME A VIDA DELE"
               src="https://www.youtube.com/embed/QQlWTSrP1Y8?controls=1&loop=1"
             ></iframe>
@@ -54,7 +54,7 @@ export default function Main() {
       >
         <path
           fill="#0e335e"
-          fill-opacity="1"
+          fillOpacity="1"
           d="M0,224L40,208C80,192,160,160,240,149.3C320,139,400,149,480,170.7C560,192,640,224,720,213.3C800,203,880,149,960,117.3C1040,85,1120,75,1200,85.3C1280,96,1360,128,1400,144L1440,160L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"
         ></path>
       </svg>
